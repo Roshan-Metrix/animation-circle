@@ -1,2 +1,2 @@
 # animation-circle
-A great animation css code for the circle; the absolutely looks amazing 😍
+A great animation css code for the circle; it's absolutely looks amazing 😍
